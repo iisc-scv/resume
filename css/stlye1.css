@@ -1,0 +1,42 @@
+ .container{
+    display: flex;
+    felx-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+
+
+ul li
+{
+	/* display:inline-block;*/
+
+	/* background-color: LightGray;*/
+  border: none;
+  color: white;
+  padding: 0px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+h2{
+	color: Blue;
+	/*background-color: Gray;*/
+}
+
+
+
+img{
+	width: 450px;
+	height: 300px;
+    margin: 10px;
+    transition: all 1s;
+}
+img:hover{
+    transform:scale(1.1 );
+}
