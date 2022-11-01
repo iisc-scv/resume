@@ -8,6 +8,10 @@
     margin-bottom: 10px;
 }
 
+#about {
+    background-color: #456990;
+}
+
 #contact p{
     color: grey;
     margin-bottom: 0px;
