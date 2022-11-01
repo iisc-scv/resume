@@ -26,8 +26,7 @@
 }
 
 .box{
-    background-color: #456990;
-    /* background-color: #FA5520 !important; */
+    background-color: #FA5520 !important; 
     display: table-cell;
     border-radius:5px;
     padding: 5px;
