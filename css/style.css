@@ -8,8 +8,8 @@
     margin-bottom: 10px;
 }
 
-#about {
-    background-color: #456990;
+.bg-primary {
+    background-color: #456990 !important; 
 }
 
 #contact p{
