@@ -182,7 +182,7 @@
        min-height: 600px; }
        header.masthead .header-content {
          position: absolute;
-         top: 50%;
+         top: 43%;
          padding: 0 50px;
          -webkit-transform: translateY(-50%);
          -ms-transform: translateY(-50%);
