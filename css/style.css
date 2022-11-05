@@ -12,6 +12,16 @@
     background-color: #456990 !important; 
 }
 
+<!-- start -->
+.fixed-top {
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+<!--   End  -->
 #contact p{
     color: grey;
     margin-bottom: 0px;
