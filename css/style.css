@@ -31,6 +31,12 @@
     z-index: 1030;
 }
 
+.navbar-brand {
+    font-size: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
 <!--   End  -->
 #contact p{
     color: grey;
