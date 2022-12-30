@@ -1,4 +1,4 @@
 My website
 - Team member: Subhash Chandra
-- Supervisor: Prof. Balki
+- Supervisor: Prof. N. Balakrishnan
 
