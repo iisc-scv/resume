@@ -38,5 +38,5 @@ img{
     transition: all 1s;
 }
 img:hover{
-    transform:scale(2);
+    transform:scale(1.5);
 }
